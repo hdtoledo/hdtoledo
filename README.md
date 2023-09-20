@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hdtoledo" alt="hdtoledo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [hdtoledo.dev](hdtoledo.dev)
+- 👨‍💻 All of my projects are available at <a href="https://hdtoledo.dev" target="blank">hdtoledo.dev</a>
 
 - 📫 How to reach me **hdtoledo@gmail.com**
 
