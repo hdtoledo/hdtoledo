@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Héctor David Toledo G. | Software Architect & Senior Full Stack Developer
 
-🚀 **Core Stack:** MERN Stack | NestJS | React Native | PostgreSQL + PostGIS | Docker  
+🚀 **Core Stack:** MERN Stack | NesxtJS | React Native | PostgreSQL + PostGIS | Docker  
 🎯 **Focus Areas:** Enterprise Architecture | GIS Intelligence | On-Premise Infrastructure | Mobile Ecosystems  
 🌎 **Location:** Garzón, Huila, Colombia
 ---
