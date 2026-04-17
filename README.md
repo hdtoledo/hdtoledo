@@ -4,7 +4,7 @@
 
 🚀 **Core Stack:** MERN Stack | Next.js | React Native | PostgreSQL + PostGIS | Docker  
 🎯 **Focus Areas:** Enterprise Architecture | GIS Intelligence | On-Premise Infrastructure | Mobile Ecosystems  
-🌎 **Location:** Garzón, Huila, Colombia
+[cite_start]🌎 **Location:** Garzón, Huila, Colombia [cite: 99]
 
 ---
 
