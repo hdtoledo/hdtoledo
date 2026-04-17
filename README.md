@@ -1,91 +1,75 @@
-![Header Image](https://res.cloudinary.com/dxeulqo3n/image/upload/v1723578422/hdtoledo/wallhdtoledo_zipigs.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/dxeulqo3n/image/upload/v1723578422/hdtoledo/wallhdtoledo_zipigs.png" alt="Héctor Toledo Header" width="100%">
+</p>
 
-# 👋 Hi, I'm Héctor David Toledo G. | Software Architect & Senior Full Stack Developer
+# 🏛️ Héctor David Toledo G.
+### **Software Architect & Senior Full Stack Developer**
+> *Designing resilient architectures where data integrity meets global scalability.*
 
-🚀 **Core Stack:** MERN Stack | Next.js | React Native | PostgreSQL + PostGIS | Docker  
-🎯 **Focus Areas:** Enterprise Architecture | GIS Intelligence | On-Premise Infrastructure | Mobile Ecosystems  
-[cite_start]🌎 **Location:** Garzón, Huila, Colombia [cite: 99]
-
----
-
-## 🌟 About Me
-
-[cite_start]I am a results-driven **Software Architect & Senior Full Stack Developer** with over **8 years of experience** [cite: 3, 32][cite_start], specializing in building **mission-critical**, **scalable**, and **high-performance** digital ecosystems[cite: 2, 6].
-
-My expertise goes beyond code; [cite_start]I design resilient architectures that bridge **complex backend logic**, **geospatial intelligence (GIS)**, and **intuitive mobile experiences**[cite: 34, 37]. [cite_start]I focus on creating sovereign solutions where performance and data security are the priority[cite: 21, 23].
-
-[cite_start]I thrive in leading technical teams and collaborating globally to deliver impactful solutions that solve real-world problems[cite: 31].
+<p align="left">
+  <img src="https://img.shields.io/badge/Exp-+8_Years-blue?style=for-the-badge&logo=expertsexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise_Architecture-red?style=for-the-badge&logo=architecture" />
+  <img src="https://img.shields.io/badge/Location-Garzón,_Huila-green?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Professional Profile
 
-<div align="center">
+I am a results-driven **Software Architect** specializing in building **mission-critical**, **scalable**, and **high-performance** digital ecosystems. My expertise bridges complex backend logic, **geospatial intelligence (GIS)**, and intuitive mobile experiences. 
 
-![Hector's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdtoledo&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
-
-![Hector's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hdtoledo&theme=tokyonight&hide_border=true)
-
-</div>
+I focus on **Sovereign Solutions**: creating on-premise and cloud infrastructures where performance and data security are the absolute priority.
 
 ---
 
-## 🔥 Tech Stack & Architecture
+## 🚀 Specialized Architecture Stack
 
-### 🚀 Frontend & Mobile Ecosystem
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white) 
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![Redux](https://img.shields.io/badge/-Redux_State-764ABC?style=flat&logo=redux&logoColor=white)
-
-### 🛠️ Backend & API Strategy
-![NestJS](https://img.shields.io/badge/-NestJS_Enterprise-E0234E?style=flat&logo=nestjs&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) 
-![JWT](https://img.shields.io/badge/-JWT_Security-000000?style=flat&logo=json-web-tokens&logoColor=white)
-
-### 🗄️ Databases, GIS & Sovereign Tech
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![PostGIS](https://img.shields.io/badge/-PostGIS_Spatial-336791?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![Prisma](https://img.shields.io/badge/-Prisma_ORM-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux_Admin-FCC624?style=flat&logo=linux&logoColor=black)
+| Layer | Technologies & Ecosystem |
+| :--- | :--- |
+| **Frontend Core** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css) |
+| **Backend & API** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel) |
+| **Data & GIS** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
 
 ---
 
-## 🚀 Featured Project: EcoGo Ecosystem
+## 🏗️ Featured Architectural Solution: EcoGo Ecosystem
 
-[cite_start]**[EcoGo](https://www.ecogo.app/)** is an enterprise-grade cloud solution for solid waste logistics management[cite: 100, 101]. 
+**[EcoGo](https://www.ecogo.app/)** is a premium cloud platform for solid waste logistics.
 
-* [cite_start]**Architecture:** Built as a scalable ecosystem using **Next.js**, **Node.js**, and **React Native + Expo**[cite: 101].
-* [cite_start]**Data Intelligence:** Features a real-time data traceability engine powered by **SQL and MongoDB**[cite: 102].
-* [cite_start]**Core Impact:** Optimized complex routing logic and ensured transactional data integrity for high-concurrency environments[cite: 102].
-
----
-
-## 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hector%20Toledo-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hdtoledo)
-[![GitHub](https://img.shields.io/badge/GitHub-hdtoledo-lightgrey?style=for-the-badge&logo=github)](https://github.com/hdtoledo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hdtoledo.dev-darkgreen?style=for-the-badge&logo=vercel)](https://www.hdtoledo.dev)
+* **Engineering:** Orchestrated with **Next.js** and **Microservices**, integrating **React Native + Expo** for field operations.
+* **Data Intelligence:** Real-time traceability engine built with **PostgreSQL + PostGIS** for complex spatial routing.
+* **Performance:** Designed to handle high-concurrency environments with strict transactional data integrity.
 
 ---
 
-## 📊 Profile Insights
+## 📊 Engineering Insights & Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hdtoledo&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdtoledo&theme=tokyonight&hide_border=true" width="48%" /> 
+</p>
 
-![Hector's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdtoledo&theme=tokyonight&hide_border=true&layout=compact)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hdtoledo&theme=tokyonight&no-frame=true&margin-w=4)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hdtoledo&theme=tokyonight&no-frame=true&margin-w=4" width="100%" />
+</p>
 
 ---
 
-# 🚀 Motto
-> *"Designing resilient architectures where data integrity meets global scalability."*
+## 🌍 Connect & Collaborate
+
+<p align="left">
+  <a href="https://linkedin.com/in/hdtoledo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hector_Toledo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hdtoledo.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-hdtoledo.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Built with Clean Architecture Principles | 2026</b>
+</p>
